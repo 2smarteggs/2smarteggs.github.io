@@ -4,11 +4,11 @@
 
 - #### 技术记录
 
-  - 2021/01
+  - 2021.01
 
     - ##### [Git批量修改commit作者与邮箱](/Docs/Git批量修改commit作者与邮箱.html)
 
-  - 2020/12
+  - 2020.12
 
     - ##### [使用LaunchScreen.storyboard作为APP启动页](/Docs/使用LaunchScreen.storyboard作为APP启动页.html)
 
